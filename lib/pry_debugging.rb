@@ -1,5 +1,5 @@
 require 'pry'
 def plus_two(num)
-	num + 2
-	binding.pry
+  greg = num + 2
+	greg
 end
